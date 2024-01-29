@@ -1,6 +1,6 @@
 - Hi, I’m Alfie .
 - I like Go ..
-- Go ...
+- Go ..
 - 
 <!---
 alfie71/alfie71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
